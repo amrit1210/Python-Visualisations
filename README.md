@@ -13,38 +13,6 @@ It is designed to help beginners and intermediate users create effective and ins
 
 ---
 
-## 🛠️ Installation & Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/Python-Visualisations.git
-cd Python-Visualisations
-
-Create and activate a virtual environment (recommended):
-
-```bash
-python -m venv venv
-source venv/bin/activate    # Mac/Linux
-venv\Scripts\activate       # Windows
-
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
----
-
-## 📓 **Usage**
-
-Open Jupyter Notebook to explore tutorials:
-
-```bash
-jupyter notebook
-
----
-
 ## 📖 **Topics Covered**
 📊 **Matplotlib**
 
@@ -69,3 +37,30 @@ Heatmaps and clustering visualization
 Styling with palettes and themes
 
 ---
+
+## 🛠️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/Python-Visualisations.git
+cd Python-Visualisations
+
+Create and activate a virtual environment (recommended):
+
+python -m venv venv
+source venv/bin/activate    # Mac/Linux
+venv\Scripts\activate       # Windows
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+## 📓 **Usage**
+
+Open Jupyter Notebook to explore tutorials:
+
+jupyter notebook
+
+---
+
